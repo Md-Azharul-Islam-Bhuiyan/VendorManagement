@@ -13,10 +13,14 @@ The Vendor Management System is a web application built with Django and Django R
 3. Run migrations:
   
    python manage.py migrate
+  
 
-4. Start the development server:
+5. Start the development server:
 
     python manage.py runserver
 
 ## Usage
 Access the API endpoints through the browser or API client tools such as Insomnia/Postman.
+
+## API Documentation
+   For detailed API documentation, please refer to the [API Documentation](https://docs.google.com/document/d/1RNUX1vPbgs-CaVY4HeyAnymghMYCB5E9dX_X7-wBmww/edit?usp=sharing) file.
